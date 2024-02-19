@@ -1,5 +1,7 @@
 # Amazon.in Sales Analysis SQL Project
 
+![Image Description](https://github.com/najirh/Amazon.in_Sales_Data_Analysis/blob/main/amazon_india_wide_image.jpg)
+
 This repository contains a comprehensive SQL project focused on sales analysis. The project involved data cleaning, feature engineering, and data manipulation using SQL queries to derive valuable insights from sales data.
 
 ## Project Overview
