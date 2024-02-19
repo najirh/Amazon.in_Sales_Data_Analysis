@@ -15,6 +15,19 @@ The SQL project aims to analyze sales data to provide insights into various aspe
 - Extraction of actionable insights on sales distribution, customer profitability, and product efficacy.
 - Proficiency demonstrated in trend analysis and profitability assessment through SQL-driven methodologies.
 
+## Business Questions Resolved
+
+1. Find total sales for each category.
+2. Find out the top 5 customers who made the highest profits.
+3. Find out the average quantity ordered per category.
+4. Identify the top 5 products that have generated the highest revenue.
+5. Determine the top 5 products whose revenue has decreased compared to the previous year.
+6. Identify the highest profitable sub-category.
+7. Find out the states with the highest total orders.
+8. Determine the month with the highest number of orders.
+9. Calculate the profit margin percentage for each sale (Profit divided by Sales).
+10. Calculate the percentage contribution of each sub-category
+
 ## Project Structure
 
 The repository is organized as follows:
